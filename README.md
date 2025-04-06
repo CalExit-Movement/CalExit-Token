@@ -1,6 +1,13 @@
 # CalExit Token — $CALEXIT
 
-🚀 **CalExit** is a token on the Solana blockchain representing California's right to self-determination, freedom, and decentralization.
+CALEXIT represents the fusion of political self-determination and blockchain technology.
+Created by supporters of the California independence movement, the token serves as both a symbol of sovereignty and a practical tool to build decentralized infrastructure outside federal control.
+
+Through CALEXIT, the community can coordinate, fund, and promote initiatives aligned with the vision of an independent California — economically and politically. Built on the Solana blockchain, the token ensures transparency, speed, and accessibility for every supporter.
+
+This is not just a financial asset — it’s a declaration of digital independence.
+
+
 
 ---
 
